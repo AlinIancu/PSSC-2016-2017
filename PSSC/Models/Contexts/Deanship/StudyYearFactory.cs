@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Models
+namespace Models.Contexts.Deanship
 {
-    public class Class1
+    class StudyYearFactory
     {
-        //remove or alter this class, then implement your models.  
     }
 }
